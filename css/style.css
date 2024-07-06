@@ -1,0 +1,7 @@
+html body {
+  height: 100%;
+}
+body {
+  background: url(../img/bgimage1.jpg);
+  background-size: cover;
+}
